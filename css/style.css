@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 h1{
     background-color: cornflowerblue;
 }
-=======
 * {
     margin: 0px;
     padding: 0px;
@@ -117,4 +115,3 @@ nav {
 .toggle .line3 {
     transform: rotate(45deg) translate(-5px,-6px);
 }
->>>>>>> 2fc2da25aa6c5b1c92866d0b0248fda90023a348
